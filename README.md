@@ -20,7 +20,7 @@ HangoutConverter.exe takeout-20181010T070302Z-001\Takeout\Hangouts\Hangouts.json
 In effect you will get PDF file example.pdf looking like this:
 ![alt tag](https://raw.githubusercontent.com/panjanek/HangoutConverter/master/example/example.png) 
 
-#Features
+# Features
 
 1. Supports very large archive files.
 2. Embeds clickable links into PDF.
