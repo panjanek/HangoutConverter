@@ -13,3 +13,11 @@ HangoutConverter.exe <path-to-hangouts.json-file> "<name-of-first-person>" "<nam
 ```
 HangoutConverter.exe takeout-20181010T070302Z-001\Takeout\Hangouts\Hangouts.json "Rhett Buler" "Scarlett O'Hara" example.pdf
 ```
+
+In effect you will get PDF file example.pdf looking like this:
+![alt tag](https://raw.githubusercontent.com/panjanek/HangoutConverter/master/example/example.png) 
+
+#Features
+1. Supports very large archive files.
+2. Embeds clickable links into PDF.
+3. Embeds image thumbnails into PDF with link to full size image.
