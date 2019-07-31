@@ -14,7 +14,7 @@ HangoutConverter.exe <path-to-hangouts.json-file> "<name-of-first-person>" "<nam
 # Example
 
 ```
-HangoutConverter.exe takeout-20181010T070302Z-001\Takeout\Hangouts\Hangouts.json "Rhett Buler" "Scarlett O'Hara" example.pdf
+HangoutConverter.exe takeout-20181010T070302Z-001\Takeout\Hangouts\Hangouts.json "Rhett Butler" "Scarlett O'Hara" example.pdf
 ```
 
 In effect you will get PDF file example.pdf looking like this:
